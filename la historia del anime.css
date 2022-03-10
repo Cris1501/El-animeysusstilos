@@ -1,0 +1,24 @@
+body{
+	border:8px solid; 
+	margin-left: 15px;
+	margin-right: 15px;
+	border-color: red;
+	background: yellow;
+	margin-top: ;
+ font-size: 21;
+}
+
+p{
+margin-left: 35px;
+margin-right: 35px;
+text-align: justify;
+}
+
+img{
+	border-style: dashed;
+	border-width: 15px;
+	border-color: violet blue purple pink;
+}
+ul{
+	text-align: justify;
+}
